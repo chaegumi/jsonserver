@@ -4,4 +4,4 @@
     status: 'done',
     response: 'Server Error 500', // custom error message to show
     url: 'https://links123-images.oss-cn-hangzhou.aliyuncs.com/avatar/2019/3/18/5f74de47f596d690934b490a0581f9aa.jpg',
-  }
+}
